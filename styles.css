@@ -1,0 +1,66 @@
+.smaller { font-size: 80%; }
+.smaller2 { font-size: 67%; }
+.smaller3 { font-size: 60%; }
+.smaller_table { font-size: 50%; }
+.smaller_large_table { font-size: 37%; }
+.smaller_caption { font-size: 45%; }
+.larger_title { font-size: 150%; }
+.caption_gray { color: #999; font-size: 43%; }
+.smaller_misc_table { font-size: 33%; }
+.sfa_table { font-size: 25%; }
+
+
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+  border-radius: 12px;
+  padding: 0.75em;
+  margin-top: 0.3em;
+  line-height: 1.3;
+}
+
+.reveal .slides section .summary {
+  height: 100%;                 /* fill full slide */
+  display: flex;
+  align-items: center;           /* vertical centering */
+  justify-content: flex-start;   /* keep text left */
+  padding-left: var(--r-block-margin); /* same left padding as normal text */
+  padding-right: var(--r-block-margin);
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.footnote {
+  font-size: 0.5em;
+  color: #666;
+}
+
+.center-plot .html-widget {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 700px !important; /* match your layout() width */
+}
+
+/* Default: hide print-only on screen */
+.print-only { display: none !important; }
+
+/* When using Quarto/Reveal PDF Export Mode (adds .print-pdf to <body>) */
+.print-pdf .screen-only { display: none !important; }
+.print-pdf .print-only  { display: block !important; }
+
+/* When using the browser's actual print media */
+@media print {
+  .screen-only { display: none !important; }
+  .print-only  { display: block !important; }
+}
+
+.reveal .opinion-note {
+  font-size: 0.3em;
+  line-height: 1.1;   /* tighten spacing */
+  display: block;     /* ensures it behaves like a block element */
+  margin-top: 0.5em;  /* optional, adjust spacing above */
+}
