@@ -2,7 +2,7 @@
 
 This presentation looks at meta-analyses of randomized controlled trials on reducing saturated fat, with a focus on hard outcomes such as myocardial infarction (heart attack), death from myocardial infarction, and mortality outcomes.
 
-## Meta-analyses discussed
+## Meta-analyses 
 
 ### 2025 meta-analyses
 
@@ -19,7 +19,7 @@ This presentation looks at meta-analyses of randomized controlled trials on redu
 -   [Sacks et al. (2017)](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000510)
 -   [Hooper et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/32428300/)
 
-## Randomized trials discussed
+## Randomized trials mentioned
 
 -   [Rose / St Mary’s](https://pubmed.ncbi.nlm.nih.gov/14288105/)
 -   [Oslo Diet-Heart](https://pubmed.ncbi.nlm.nih.gov/5228820/)
@@ -43,7 +43,7 @@ This presentation looks at meta-analyses of randomized controlled trials on redu
 -   [WINS](https://pubmed.ncbi.nlm.nih.gov/17179478/)
 -   [Amrita / Vijayakumar](https://pubmed.ncbi.nlm.nih.gov/27543472/)
 
-## Re-analyses and related papers discussed
+## Re-analyses and related papers mentioned
 
 -   [Sydney Diet Heart Study: Ramsden re-evaluation (2013)](https://pubmed.ncbi.nlm.nih.gov/23386268/)
 -   [Minnesota Coronary Experiment: Ramsden re-evaluation (2016)](https://www.bmj.com/content/353/bmj.i1246)
