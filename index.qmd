@@ -239,7 +239,7 @@ Why?
 | 1966 | 1956 | [**Oslo Diet-Heart**](https://pubmed.ncbi.nlm.nih.gov/5228820/) | 412 | 5 y | Men with prior MI | Low-SFA advice + soy oil/fish vs usual diet | NR | Yes | Unclear* | SFA not directly measured; fish/cod-liver cointervention |
 | 1968 | 1960 | [**MRC Soybean Oil**](https://pubmed.ncbi.nlm.nih.gov/4175085/) | 393 | 3.8 y mean | Men after first MI | Soybean oil + fat restriction vs usual diet | NR | Yes | Unclear* | Soy-oil supplement trial; SFA not measured |
 | 1969 | 1959 | [**LA Veterans Administration**](https://www.ahajournals.org/doi/10.1161/01.CIR.40.1S2.II-1) | 846 | ? | Semi-institutionalized men, mixed CHD status | Whole diet replacing about two-thirds of SFA with unsaturated fat | -10.2% | Yes | Probable | Partial feeding / institutional setting |
-| 2013 | 1966 | [**Sydney Diet Heart Study** (Ramsden)](https://pubmed.ncbi.nlm.nih.gov/727035/) | 458 | 4.3 y mean | Men with prior MI | Safflower oil + safflower margarine vs usual diet | -3.7% | Yes | Probable | LA-specific substitution trial; margarine-era intervention |
+| 2013 | 1966 | [**Sydney Diet Heart Study** (Ramsden)](https://pubmed.ncbi.nlm.nih.gov/23386268/) | 458 | 4.3 y mean | Men with prior MI | Safflower oil + safflower margarine vs usual diet | -3.7% | Yes | Probable | LA-specific substitution trial; margarine-era intervention |
 | 1989 | 1983 | [**DART**](https://pubmed.ncbi.nlm.nih.gov/2571009/) | 2033 | 2 y | Men recovering from MI | Lower-fat / higher-P:S advice vs usual advice | -4.0% | Yes | Unclear | Factorial trial; only 2 years |
 | 1989 | 1968 | [**Minnesota Coronary Survey**](https://pubmed.ncbi.nlm.nih.gov/2643423/) | 9057 | Avg 1 y, max 4.5 y | Institutionalized men and women without CHD | Corn oil + corn-oil margarine vs control diet | -9.1% | Yes | Probable | Open enrollment; average exposure short |
 | 1992 | NR | [**STARS**](https://pubmed.ncbi.nlm.nih.gov/1347091/) | ~60 | 3 y | Men with established CHD | Low-SFA diet vs usual care | -7.0% | Sparse | Unclear | Tiny trial; angiography-focused |
@@ -370,7 +370,7 @@ The ideal RCT on saturated fat?
 
 - compared the effects of a 
   - 39% fat control diet (18% saturated fat, 5% polyunsaturated fat, 16% monounsaturated fat, 446 mg dietary cholesterol per day) 
-    - 38% fat treatment diet (9% saturated fat, 15% polyunsaturated fat, 14% monounsaturated fat, 166 mg dietary cholesterol per day) 
+  - 38% fat treatment diet (9% saturated fat, 15% polyunsaturated fat, 14% monounsaturated fat, 166 mg dietary cholesterol per day) 
 - mean duration of time on the diets was **384 days**, with 1568 subjects consuming the diet for over 2 years
 - For the entire study population, no differences between the treatment and control groups were observed for cardiovascular events, cardiovascular deaths, or total mortality.
 
@@ -384,6 +384,29 @@ The ideal RCT on saturated fat?
 Show Fig 6. Life-table graph
 
 :::
+
+---
+
+### Minnesota, Problems
+
+::: {.smaller2}
+
+::: {.incremental}
+
+- Open-enrollment, single-end-time design
+- very high turnover/attrition and short average time on diet (~1 year)
+- trial was conducted in state mental hospitals and one nursing home
+- lack of data on trans-fat exposure, LDL, smoking status, weight loss / baseline disease status, other dietary changes
+- subjects could leave; once they were out they could eat whatever was available outside the institution; 
+  - while inside, tighter meal control
+  - for many subjects, exposure was **intermittent** rather than continuous
+- Reporting inconsistencies and per-protocol analysis after significant drop out
+- Historical food environment (trans-fats)
+
+:::
+
+:::
+
 
 ---
 
@@ -404,21 +427,14 @@ Show Fig 6. Life-table graph
 - "...we are not able to determine if the effects of the high linoleic acid diet varied by smoking status, pre-existing coronary heart disease, psychiatric history, or drug use.
 
 :::
+::: {.fragment}
 
-:::{.fragment}
+**Results**:
 
-Problems
+- intervention group lowered **total** cholesterol but no mortality benefit in full randomized cohort or for any prespecified subgroup
+- "22% higher risk of death for each 30 mg/dL (0.78 mmol/L) reduction in serum cholesterol in covariate adjusted...models"
 
-:::
-:::{.incremental}
-
-
-- very high turnover/attrition and short average time on diet
-- lack of data on trans-fat exposure, LDL specifically, smoking status, weight loss / baseline disease status, other dietary changes
-- subjects could leave; once they were out they could eat whatever was available outside the institution; 
-- while inside, tighter meal control
-- for many subjects, exposure was **intermittent** rather than continuous
-  - [particpants could leave the hospital and then return at a later date](https://www.ovid.com/journals/bmjeb/abstract/10.1136/ebmed-2016-110486~dietheart-disease-hypothesis-is-unaffected-by-results-of?redirectionsource=fulltextview)
+"Findings...add to growing evidence that incomplete publication has contributed to overestimation of the benefits of replacing saturated fat with vegetable oils rich in linoleic acid."
 
 :::
 
@@ -431,9 +447,11 @@ Problems
 ::: {.smaller_table}
 
 
-> "it is highly likely that this experienced MCE team selected products containing as little trans fat as possible to maximize the achieved degree of cholesterol lowering." <br><br>"Perhaps more importantly, it is clear from the MCE grant proposal that common margarines and shortenings (major sources of trans fat) were important components of the baseline hospital diets and the control diet (but not the intervention diet). Thus, confounding by dietary trans fat is an **exceedingly unlikely** explanation for the lack of benefit of the intervention diet."
+> "confounding by dietary trans fat is an **exceedingly unlikely** explanation for the lack of benefit of the intervention diet."
 
+:::
 
+::: {.smaller3}
 
 :::{.fragment}
 
@@ -441,20 +459,18 @@ Problems
 
 :::
 
-:::{.fragment}
+::: {.incremental}
 
-Ramsden results:
-
-- intervention group lowered **total** cholesterol but no mortality benefit in full randomized cohort or for any prespecified subgroup
-- "There was a 22% higher risk of death for each 30 mg/dL (0.78 mmol/L) reduction in serum cholesterol in covariate adjusted...models"
-
-:::
-
-:::{.fragment}
-
-"Findings...add to growing evidence that incomplete publication has contributed to overestimation of the benefits of replacing saturated fat with vegetable oils rich in linoleic acid."
+- ["Ramsden...did not re-analyse the results of the randomise controlled trial."](https://www.ovid.com/journals/bmjeb/abstract/10.1136/ebmed-2016-110486~dietheart-disease-hypothesis-is-unaffected-by-results-of?redirectionsource=fulltextview)
+  - subgroup analysis who were on diet > 1 year, and cholesterol data at baseline / follow-up
+  - after randomization, change inclusion criteria...
+  - post hoc cholesterol–mortality analysis not result of RCT
+- their meta-analysis used results from original paper, so no new information
+- inconsistencies across recovered datasets/reports
+- all the problems from original 
 
 :::
+
 
 
 
@@ -485,26 +501,23 @@ Minnesota Coronary Experiment: the 2016 BMJ paper was broader than Sydney. It wa
 :::
 :::{.incremental}
 
-- safflower oil / safflower margarine advice vs usual diet; tested all-cause, cardiovascular, and CHD mortality
-- specific, high-LA safflower intervention, not just a reduce SF trial
+- **intervention**: safflower oil / safflower margarine **advice** vs usual diet (restrict calories if overweight); 
+- **outcome**: tested all-cause, cardiovascular, and CHD mortality
+  - specific, high-LA safflower intervention, not just a reduce SF trial
 - diets assessed by interview and/or food log three times during the first year and twice yearly thereafter
 
-- Group P: no specific dietary instruction apart from restriction of calories if thought to be overweight. 
-- Group F: advised and tutored individually to reduce saturated fat intake to approximately 10% of calories and dietary cholesterol to 300 mg or less per day. 
-  - They were encouraged to use food containing polyunsaturated fatty acids to 15% or more of daily calories.
-
 - Group P: saturated fatty acids contributed 13.5% and polyunsaturated fatty acids 8.9% of total calories.
-- Group F: consumed derived 9.8% of calories from saturated fatty acids and 15.1% from polyunsaturates. 
+- Group F: consumed a derived 9.8% of calories from saturated fatty acids and 15.1% from polyunsaturates. 
 
 :::
 :::{.fragment}
 
-Result: "Survival was slightly better in the second group." (show figure 2)
+Result: "Survival was slightly better in the second group." (low sat fat) (show figure 2)
 :::
 :::{.fragment}
 
 Problems: \
-many participants recently changed diets (due to heart attack), trans fat issue, messy multi-component intervention problem, less control on actual diet, not a full feeding trial where all meals supplied, tracking not perfect, small numbers at end of trial.
+many participants recently changed diets (due to heart attack), trans fat issue (safflower-oil margarine), historical food environment, messy multi-component intervention problem, less control on actual diet, not a full feeding trial where all meals supplied, tracking not perfect, small numbers at end of trial.
 
 
 
@@ -531,11 +544,9 @@ many participants recently changed diets (due to heart attack), trans fat issue,
 Results:
 
 :::
-:::{.incremental}
+:::{.fragment}
 
-- all-cause mortality was 17.6% vs 11.8%, 
-- cardiovascular mortality 17.2% vs 11.0%
-- coronary heart disease mortality 16.3% vs 10.1% (fig 2. p 16)
+"The intervention group (n=221) had higher rates of death than controls (n=237) (all cause 17.6% v 11.8%, hazard ratio 1.62 (95% confidence interval 1.00 to 2.64), P=0.05; cardiovascular disease 17.2% v 11.0%, 1.70 (1.03 to 2.80), P=0.04; coronary heart disease 16.3% v 10.1%, 1.74 (1.04 to 2.92), P=0.04)."
 
 :::
 
@@ -547,13 +558,13 @@ Same problems as original:
 :::{.incremental}
 
 - intervention changed linoleic acid and saturated fat, but also monounsaturated fat and dietary cholesterol, 
-  - trans fat content was not recorded and the precise margarine composition was not specified.
-
+- trans fat 
 - Original authors say the study effectively became a multifactorial study. 
   - large changes in smoking, diet, body weight, lifestyle, and physical activity before and after entry.
   - number of subjects and the duration may have been insufficient.
 - prognosis was driven mainly by severity of underlying coronary/myocardial disease, 
   - dietary variables not showing predictive power in their multivariate analysis.
+- main results borderline significant
 
 :::
 :::
@@ -569,10 +580,11 @@ Same problems as original:
 - 846 male veterans, aged 54-88 (mean 65.5)
 - duration varied by entry (participants could enter anytime)
 - The diet intervention:
-  - control diet: conventional institutional diet, about 40% of calories from fat
-  - control diet: 10.0 g/day linoleic acid and 652.7 mg/day cholesterol
   - intervention diet: total fat same, substituted vegetable unsaturated fat for two-thirds of the animal fat
   - intervention diet: about **38.4 g/day** linoleic acid and 365.4 mg/day cholesterol.
+  - control diet: conventional institutional diet, about 40% of calories from fat
+  - control diet: 10.0 g/day linoleic acid and 652.7 mg/day cholesterol
+
 - Primary outcome: ischemic heart disease manifested by sudden death or myocardial infarction. 
 - Secondary outcomes: cerebral infarction, amputation due to peripheral atherosclerosis, ruptured aortic aneurysm, and intestinal infarction.
 
