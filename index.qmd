@@ -827,7 +827,7 @@ Which is more informative?
 ::: {.smaller2}
 ::: {.incremental}
 
-- Meta-analyses pools similar studies
+- Meta-analyses pool similar studies
 - Improves precision, increases statistical power
 - They **cannot** fix major design flaws
 - Protocol-based inclusion critera check for prespecified problems
@@ -891,11 +891,11 @@ Where do we go from here?
 
 ::: {.incremental}
 
-- Human hard endpoint RCTs
-- Human surrogate-outcome RCTs
 - Mechanistic / biological evidence
-- Observational human substitution studies
 - Animal experimental evidence
+- Human surrogate-outcome RCTs
+- Observational human substitution studies
+- Human hard endpoint RCTs
 
 
 :::
