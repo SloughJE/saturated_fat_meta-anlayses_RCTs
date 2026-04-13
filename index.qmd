@@ -867,13 +867,16 @@ Which is more informative?
 
 ::: {.incremental}
 
-- The RCTs included in these meta-analyses have major methodological problems and do not provide reliable evidence in either direction.
+- The RCTs included in these meta-analyses have major problems in design, conduct, and applicability, and do not provide reliable evidence in either direction.
 
-  - They do not show that reducing dietary saturated fat lowers the risk of heart attack, heart attack death, or death from any cause, **or that it does not**.
+  - They cannot establish that reducing dietary saturated fat lowers the risk of heart attack, heart attack death, or death from any cause, **or that it does not**.
 
-- No more meta-analyses of RCTs on saturated fat and hard cardiovascular or mortality endpoints
+- Please, no more meta-analyses of RCTs on saturated fat and hard cardiovascular or mortality endpoints
 
   - If you see another meta-analysis on RCTs of saturated fat reduction...
+
+:::
+::: {.incremental}
 
 - But what do we do? Is SFA good, bad, neutral, it depends? 
 - Can we answer this question?
