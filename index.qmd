@@ -43,7 +43,7 @@ So which is it?
 ---
 
 
-## Meta-anlaysis
+## Meta-analysis
 
 
 ::: {.incremental}
